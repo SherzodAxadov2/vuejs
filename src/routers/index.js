@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-import AppView from "@/pages/AppView.vue";
+import AppView from "@/views/AppView.vue";
 
 
 export const router = createRouter({
